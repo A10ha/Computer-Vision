@@ -24,10 +24,6 @@ CV的一些论文和代码实现
 
 *Redmon J, Divvala S, Girshick R, et al. You only look once: Unified, real-time object detection[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 779-788.*
 
-### YOLO v3
-
-*Redmon J, Farhadi A. Yolov3: An incremental improvement[J]. arXiv preprint arXiv:1804.02767, 2018.*
-
 ### Faster RCNN
 
 *Ren S, He K, Girshick R, et al. Faster R-CNN: Towards real-time object detection with region proposal networks[J]. Advances in neural information processing systems, 2015, 201.*
@@ -36,3 +32,6 @@ CV的一些论文和代码实现
 
 *Bargoti S, Underwood J. Deep fruit detection in orchards[C]//2017 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2017: 3626-3633.*
 
+### YOLO v3
+
+*Redmon J, Farhadi A. Yolov3: An incremental improvement[J]. arXiv preprint arXiv:1804.02767, 2018.*
