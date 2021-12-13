@@ -36,7 +36,5 @@ CV的一些论文和代码实现
 
 *Bargoti S, Underwood J. Deep fruit detection in orchards[C]//2017 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2017: 3626-3633.*
 
-### YOLO v3
 
-*Redmon J, Farhadi A. Yolov3: An incremental improvement[J]. arXiv preprint arXiv:1804.02767, 2018.*
 
