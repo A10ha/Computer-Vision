@@ -4,6 +4,10 @@ CV的一些论文和代码实现
 
 ## Super Resolution
 
+### SRDNN
+
+*Dong C, Loy C C, He K, et al. Image super-resolution using deep convolutional networks[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 38(2): 295-307.*
+
 ### DRCN
 
 *Kim J, Lee J K, Lee K M. Deeply-recursive convolutional network for image super-resolution[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 1637-1645.*
@@ -35,3 +39,4 @@ CV的一些论文和代码实现
 ### YOLO v3
 
 *Redmon J, Farhadi A. Yolov3: An incremental improvement[J]. arXiv preprint arXiv:1804.02767, 2018.*
+
